@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoWall</string>
+    <item name="imageLoader_url" type="id"/>
+</resources>
